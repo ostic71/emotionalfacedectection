@@ -23,8 +23,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-## Acknowledgments
-
 The following resources were used in the development of this project:
 
 -   [Facial expressions training data](https://www.kaggle.com/datasets/noamsegal/affectnet-training-data) - Kaggle
@@ -38,8 +36,4 @@ The following resources were used in the development of this project:
 
 ## Author
 
-Phuc Truong Le Vinh
-
-## Contact
-
-truonglevinhphuc2006@gmail.com
+Truong Le Vinh Phuc, Le Thanh Tien, Duong Thanh Tri
