@@ -37,3 +37,6 @@ The following resources were used in the development of this project:
 ## Author
 
 Truong Le Vinh Phuc, Le Thanh Tien, Duong Thanh Tri
+
+## Dataset & Model File
+[Link](https://drive.google.com/drive/folders/1roWhSA7EtiYuh6J5oM-bLQIHvqPXWY5Y?usp=sharing)
